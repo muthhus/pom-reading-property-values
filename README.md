@@ -1,0 +1,1 @@
+# pom-reading-property-values
